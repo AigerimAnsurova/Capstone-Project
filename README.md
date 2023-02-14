@@ -11,7 +11,7 @@
 
 ## Data
 
-* The data that will be used are: [bop_data.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data.csv) and [bop_date2.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data2.csv). 
+* The data that will be used is: [bop_data.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data.csv) and [bop_date2.csv](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/bop_data2.csv). 
 * A description of the data is in the [data dictionary](https://github.com/PACESTEM/STEMINSTITUTE2021/blob/main/data/DataDictionary.csv).
 
  
