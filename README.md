@@ -15,8 +15,8 @@
 
  
 ## Research questions
-* Which forecasting model performs the best in predicting the returns of stocks? 
-* How can optimization technique be used to determine the optimal allocation of assets in a portfolio for maximum return and minimal risk? 
+** Which forecasting model performs the best in predicting the returns of stocks? 
+** How can optimization technique be used to determine the optimal allocation of assets in a portfolio for maximum return and minimal risk? 
 
 
 
