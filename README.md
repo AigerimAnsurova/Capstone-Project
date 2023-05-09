@@ -11,7 +11,7 @@
 
 ## Data
 
-* The data will be retrieved from Yahoo Finance API
+5-year daily historical stock prices of major four Sectors (Energy, Financials, IT, Health Care), listed in S&P 500, are collected from Yahoo Finance API from 01.01. 2018 to 04.10.2023. For each stock, daily ‘Open’, ‘Close’, ’Low’, ‘High’ prices and trading volume were used as the main input values in the dataset. Overall, the shape of the dataset is 1305 rows by 1060 columns.
 
  
 ## Research questions
